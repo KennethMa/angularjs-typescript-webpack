@@ -1,0 +1,33 @@
+{
+  "name": "angularjs-typescript-webpack",
+  "version": "0.0.1",
+  "description": "another angularjs typescript webpack architecture",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennethMa/angularjs-typescript-webpack.git"
+  },
+  "keywords": [
+    "angularjs",
+    "typescript",
+    "webpack"
+  ],
+  "author": "billyma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KennethMa/angularjs-typescript-webpack/issues"
+  },
+  "homepage": "https://github.com/KennethMa/angularjs-typescript-webpack#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.5.22",
+    "@types/lodash": "^4.14.45",
+    "webpack": "2.2.0-rc.3"
+  }
+}
